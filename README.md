@@ -8,24 +8,27 @@
 |key|value|
 |---|-----|
 |Name|大井 孝幸|
-|Twitter|[@renoinn](https://twitter.com/renoinn)|
+|X|[@renoinn](https://x.com/renoinn)|
+|Zenn|[https://zenn.dev/renoinn](https://zenn.dev/renoinn)|
+|GitHub|[https://github.com/renoinn](https://github.com/renoinn)|
 
 ## スキル
 
 ### 言語
+読み書きができ、その言語と何かしらのフレームワークを使用してアプリケーションを組み立てられる言語を挙げています。
 - PHP
 - Java
 - golang
 - Dart
 - Swift
 - Kotlin
-- JavaScript
+- JavaScript/TypeScript
 - HTML
 - CSS
 
 ### フレームワーク、 XaaS
 
-- Laravel
+- FuelPHP
 - Spring Boot
 - jQuery
 - Vue.js
@@ -37,10 +40,12 @@
 ### その他ツールなど
 
 - Docker
+- Kubernetes
 - Slack
 - GitHub
 - Figma
 - JIRA / Confluence
+- GA4/GTM
 
 ## 言語
 
@@ -60,18 +65,20 @@
 
 ## 弱み
 
-- コミュニケーションを取るまでが遅くなりがち
-- 段取りに対する想像力が足りていないことが多い
-- 一つ一つの技術への造詣はそこまで深くない
+- ネットワーク、インフラのゼロからの構築は未経験
 - コンピューターサイエンスは未履修
+- 曖昧にしたりぼかした言い方を嫌うので、受け取り手によっては怖い印象を与えてしまう
 
 ## エンジニアとしてのスタンス
 
-- TBD
+基本的には下記のブログ記事を読んでいただければと思います。
+[エンジニアとして大事にしている3つの考え](https://oomori-blog.pages.dev/article/h94f7_pehfm)
+
+また、当たり前ですがお金を貰って仕事をしている以上、貰っている報酬に見合うだけの価値を提供出来ているか？は意識しています。
 
 ## やったことはないが興味があるもの
 
-- データエンジニアリング
+- SRE
 - プラットフォームエンジニアリング
 
 ## 職務経歴
